@@ -1,6 +1,6 @@
 <?php
 
-namespace Redstage\Test\Model\ResourceModel;
+namespace Redstage\Test\Model\ResourceModel\Test;
 
 
 use Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection;
